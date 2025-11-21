@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Mateus Toledo Benkenstein
+# Hey, prazer! Sou o Mateus.
 
 Desenvolvedor **Back-End** apaixonado por construir sistemas sólidos, eficientes e com propósito.  
 Atualmente trabalho com **Python**, **Django**, **Django REST Framework (DRF)** e **FastAPI**, criando APIs robustas e arquiteturas internas que impulsionam rotinas empresariais.
